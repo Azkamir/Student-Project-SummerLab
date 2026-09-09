@@ -1,0 +1,28 @@
+20 AI Study Planner
+
+## Overview
+
+Develop an AI-powered study planning system that creates personalized study schedules based on subjects, deadlines, available time, and student performance.
+
+## Core Features
+
+* Subject management
+* Exam/deadline management
+* Available study time
+* Study schedule generation
+* Task tracking
+* Progress monitoring
+* Performance tracking
+
+## Possible Extensions
+
+* Adaptive scheduling
+* Performance prediction
+* Personalized learning recommendations
+* Difficulty estimation
+* AI study assistant
+* Automatic schedule adjustment
+
+## Suggested Difficulty
+
+Advanced
