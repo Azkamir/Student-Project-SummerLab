@@ -1,0 +1,28 @@
+18  Digital Invoice Generator
+
+## Overview
+
+Develop an application that allows individuals and small businesses to create professional invoices and manage payments.
+
+## Core Features
+
+* Customer management
+* Product/service management
+* Invoice creation
+* Invoice generation
+* Payment tracking
+* Outstanding payment tracking
+* Invoice history
+* Reports
+
+## Possible Extensions
+
+* Automated payment reminders
+* Sales analytics
+* Tax calculation
+* Recurring invoices
+* AI-assisted invoice categorization
+
+## Suggested Difficulty
+
+Beginner / Intermediate
