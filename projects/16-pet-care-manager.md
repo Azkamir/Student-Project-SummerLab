@@ -1,4 +1,4 @@
-# 16 — Pet Care Manager
+# 16 Pet Care Manager
 
 ## Overview
 
