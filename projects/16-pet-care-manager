@@ -1,0 +1,27 @@
+# 16 — Pet Care Manager
+
+## Overview
+
+Develop an application that helps pet owners manage important information and schedules related to their pets.
+
+## Core Features
+
+* Pet profiles
+* Vaccination records
+* Appointments
+* Medication schedules
+* Feeding schedules
+* Health records
+* Reminders
+
+## Possible Extensions
+
+* Health trend visualization
+* Personalized reminders
+* Appointment recommendations
+* Veterinary information management
+* AI-based health information assistant
+
+## Suggested Difficulty
+
+Beginner / Intermediate
