@@ -1,4 +1,4 @@
-20 AI Study Planner
+## 20 AI Study Planner
 
 ## Overview
 
