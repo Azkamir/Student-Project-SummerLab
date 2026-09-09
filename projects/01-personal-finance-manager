@@ -1,1 +1,28 @@
-01-personal-finance-manager
+# 01 — Personal Finance Manager
+
+## Overview
+
+Develop an application that helps users manage their personal finances and understand their spending habits.
+
+## Core Features
+
+* Track income
+* Record expenses
+* Categorize transactions
+* Create monthly budgets
+* Set savings goals
+* Monitor spending
+* Generate financial summaries
+* Visualize spending patterns
+
+## Possible Extensions
+
+* Spending prediction
+* Automatic expense categorization
+* Unusual spending detection
+* Personalized financial recommendations
+* Monthly financial reports
+
+## Suggested Difficulty
+
+🟡 Intermediate
