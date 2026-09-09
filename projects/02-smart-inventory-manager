@@ -1,1 +1,28 @@
+# 02 — Smart Inventory Manager
+
+## Overview
+
+Develop an inventory management system for small businesses to manage products, stock, sales, suppliers, and invoices.
+
+## Core Features
+
+* Product management
+* Stock tracking
+* Supplier management
+* Sales records
+* Purchase records
+* Invoice management
+* Low-stock alerts
+* Inventory reports
+
+## Possible Extensions
+
+* Demand forecasting
+* Automatic low-stock prediction
+* Sales analytics
+* Barcode integration
+* AI-based inventory recommendations
+
+## Suggested Difficulty
+ Intermediate
 
