@@ -1,0 +1,163 @@
+# Summer Project Guidelines
+
+1. Project Selection
+
+Students should select a project based on their interests, technical background, and available time.
+
+Before starting development, the student should clearly understand:
+
+* What problem the project solves
+* Who will use the system
+* What the main features are
+* What technologies may be required
+* What challenges may be involved
+
+
+2. Requirements
+
+Students should identify both:
+Functional Requirements
+
+What the system should do.
+
+Examples:
+* User registration and login
+* Creating and editing records
+* Searching and filtering
+* Notifications
+* Booking
+* Payments
+* Reports
+* AI-based recommendations
+
+Non-Functional Requirements
+
+How the system should perform.
+
+Examples:
+* Security
+* Performance
+* Usability
+* Reliability
+* Scalability
+* Maintainability
+
+3. System Design
+
+Before implementation, students should prepare an appropriate system design.
+
+Depending on the project, this may include:
+* Use case diagrams
+* Activity diagrams
+* Class diagrams
+* Sequence diagrams
+* ER diagrams
+* System architecture
+* Database schema
+* UI wireframes
+
+4. Technology Selection
+
+Students are free to select appropriate technologies.
+
+The technology choice should be justified based on the project requirements rather than selected simply because it is popular.
+
+Possible technologies may include:
+
+* Web frameworks
+* Mobile frameworks
+* Relational databases
+* NoSQL databases
+* REST APIs
+* Cloud services
+* Machine learning libraries
+* AI APIs
+* Authentication services
+
+ 5. Testing
+
+Students should test their applications systematically.
+
+Testing may include:
+
+* Unit testing
+* Integration testing
+* System testing
+* Usability testing
+* Security testing
+* Performance testing
+
+Students should document important test cases and their results.
+
+ 6. Documentation
+
+The final project should be documented clearly.
+
+Recommended documentation includes:
+
+1. Introduction
+2. Problem statement
+3. Objectives
+4. Requirements
+5. System design
+6. Implementation
+7. Testing
+8. Results
+9. Limitations
+10. Future work
+11. Conclusion
+
+ 7. AI Projects
+
+For AI-based projects, students should clearly identify:
+
+* The AI problem being addressed
+* Input data
+* Data sources
+* Data preprocessing
+* Selected model or approach
+* Evaluation metrics
+* Results
+* Limitations
+
+Students should avoid using AI simply as a feature without understanding how and why the selected approach works.
+
+8. Research-Oriented Extensions
+
+Students who want to turn a project into a research project should identify a specific research question.
+
+A research extension may involve:
+
+* Comparing multiple approaches
+* Developing a prediction model
+* Improving an existing algorithm
+* Creating a recommendation system
+* Evaluating different architectures
+* Studying user behavior
+* Performing an experimental analysis
+
+
+
+9. Originality
+
+Students should develop their own implementation.
+
+Existing applications, libraries, APIs, and open-source technologies may be used where appropriate, but their use should be properly acknowledged.
+
+Students should clearly identify which parts of the project were developed by them and which components rely on external technologies or services.
+
+
+10. Final Goal
+
+The purpose of the summer project is not simply to produce a working application.
+
+Students should demonstrate their ability to:
+
+* Understand a real-world problem
+* Analyze requirements
+* Design a solution
+* Implement the solution
+* Test the system
+* Evaluate the results
+* Communicate their work
+* Identify future improvements
