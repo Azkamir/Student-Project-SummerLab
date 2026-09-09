@@ -1,4 +1,4 @@
-# 03 — Restaurant Ordering System
+# 03 Restaurant Ordering System
 
 ## Overview
 
