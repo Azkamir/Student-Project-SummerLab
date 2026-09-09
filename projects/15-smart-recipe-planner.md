@@ -1,4 +1,4 @@
-#15 Smart Recipe Planner
+## 15 Smart Recipe Planner
 
 ## Overview
 
