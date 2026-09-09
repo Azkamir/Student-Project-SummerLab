@@ -1,0 +1,27 @@
+15 Smart Recipe Planner
+
+## Overview
+
+Develop an intelligent recipe recommendation system based on available ingredients, dietary preferences, budget, and user preferences.
+
+## Core Features
+
+* Ingredient input
+* Recipe database
+* Search
+* Dietary preferences
+* Recipe recommendations
+* Shopping list
+* Budget estimation
+
+## Possible Extensions
+
+* Personalized recommendations
+* Ingredient substitution
+* Nutrition analysis
+* Food waste reduction
+* AI-generated recipes
+
+## Suggested Difficulty
+
+Intermediate / Advanced
