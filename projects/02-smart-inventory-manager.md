@@ -1,4 +1,4 @@
-02 Smart Inventory Manager
+### 02 Smart Inventory Manager
 
 ## Overview
 
