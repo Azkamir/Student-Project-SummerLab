@@ -1,4 +1,4 @@
-# 05 — AI Resume Analyzer
+# 05 AI Resume Analyzer
 
 ## Overview
 
