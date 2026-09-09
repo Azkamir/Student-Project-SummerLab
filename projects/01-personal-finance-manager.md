@@ -1,4 +1,4 @@
-# 01 — Personal Finance Manager
+01 Personal Finance Manager
 
 # Overview
 
